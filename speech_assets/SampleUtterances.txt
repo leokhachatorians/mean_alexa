@@ -1,0 +1,2 @@
+InsultIntent insult {Name}
+InsultIntent be mean to {Name}

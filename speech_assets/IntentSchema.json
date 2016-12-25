@@ -1,0 +1,14 @@
+{
+	"intents": [
+    {
+      "intent": "InsultIntent",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "LIST_OF_NAMES"
+        }
+      ]
+    }
+  ]
+}
+	
